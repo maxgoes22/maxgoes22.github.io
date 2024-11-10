@@ -22,7 +22,7 @@ In oligopolies, policy makers and competition authorities aim to inhibit coopera
 
 With my work, I hope to protect or even to foster social welfare.
 
-You can find my published work here, my work in progress here, my teaching here, my Google Scholar profile here and my CV here.
+You can find more information on my work here on this website.
 
 If you have any question, you can contact me via maximilian.andres(at)uni-potsdam(dot)de
 
