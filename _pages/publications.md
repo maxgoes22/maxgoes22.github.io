@@ -11,7 +11,7 @@ nav_order: 2
 <div class="publications">
 
 
-<p><strong>How communication makes the difference between a cartel and tacit collusion: A machine learning approach (2023)</strong></p>
+<p><strong>How Communication Makes the Difference between a Cartel and Tacit Collusion: A Machine Learning Approach (2023)</strong></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
 
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0014292122002112">European Economic Review 152, 104331</a></p>
@@ -20,7 +20,7 @@ nav_order: 2
 
 <br>
 
-<p><strong>The leniency rule revisited: Experiments on cartel formation with open communication (2021)</strong></p>
+<p><strong>The Leniency Rule Revisited: Experiments on Cartel Formation with Open Communication (2021)</strong></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
 
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0014292122002112">International Journal of Industrial Organization 76, 102728</a></p>
@@ -39,5 +39,28 @@ nav_order: 2
 <p><a href="https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/63846/file/cepa77.pdf">CEPA Discussion Paper 77</a></p>
 
 <p>Under Review at the <em>Economic Journal</em></p>
+
+<br>
+
+<p><strong>Communication and Collusion in Oligopoly Experiments: A Meta-Study using Machine Learning (2024)</strong></p>
+<p><em>with Lisa Bruttel</em></p>
+
+<p>Mimeo</p>
+
+<br>
+
+<p><strong>Equilibrium Selection in Infinitely Repeated Games with Communication (2024)</strong></p>
+<p><em></em></p>
+
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759938">Available at SSRN: https://ssrn.com/abstract=4759938</a></p>
+
+<br>
+
+<p><strong>Payoffs, Beliefs, and Cooperation in Infinitely Repeated Games (2024)</strong></p>
+<p><em>with Lisa Bruttel and Juri Nithammer</em></p>
+
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994196">Available at SSRN: https://ssrn.com/abstract=4994196</a></p>
+
+<br>
 
 </div>
