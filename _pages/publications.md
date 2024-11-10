@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-# description: Publications in reversed chronological order. Generated automatically by <a href='https://github.com/inukshuk/jekyll-scholar'>jekyll-scholar</a>.
+description: Publications and Work in Progress
 nav: true
 nav_order: 2
 ---
@@ -10,7 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h3>Publications</h3>
 
 <p><strong>How communication makes the difference between a cartel and tacit collusion: A machine learning approach (2023)</strong></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
@@ -28,6 +27,17 @@ nav_order: 2
 
 <p><em>The experimental literature on antitrust enforcement provides robust evidence that communication plays an important role for the formation and stability of cartels. We extend these studies through a design that distinguishes between innocuous communication and communication about a cartel, sanctioning only the latter. To this aim, we introduce a participant in the role of the competition authority, who is properly incentivized to judge the communication content and price setting behavior of the firms. Using this novel design, we revisit the question whether a leniency rule successfully destabilizes cartels. In contrast to existing experimental studies, we find that a leniency rule does not affect cartelization. We discuss potential explanations for this contrasting result.</em></p>
 
-<h3>Work in Progress</h3>
+<br>
+
+<hr>
+
+<br>
+
+<p><strong>Communicating Cartel Intentions (2024)</strong></p>
+<p><em>with Lisa Bruttel</em></p>
+
+<p><a href="https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/63846/file/cepa77.pdf">CEPA Discussion Paper 77</a></p>
+
+<p>Under Review at the <em>Economic Journal</em></p>
 
 </div>
