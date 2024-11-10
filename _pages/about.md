@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello, World! I am Max. I am a micro-economist with an interest in questions on the effect of institutions on cooperation in social dilemmas and, methodologically, in machine learning, laboratory experiments and game theory.
+Hello, World! I am Max. I am a micro-economist with an interest in machine learning, laboratory experiments and game theory.
 
-My work focuses on questions on the effect of institutions on cooperation in social dilemmas with primary applications to the study of oligopolies. 
+My current work focuses on questions on the effect of institutions on cooperation in social dilemmas with primary applications to the study of oligopolies. 
 In oligopolies, policy makers and competition authorities aim to inhibit cooperation or collusion between firms because their collusive actions come at the cost of social welfare, for example, by causing higher prices. 
 
 With my work, I hope to protect or even to foster social welfare.
