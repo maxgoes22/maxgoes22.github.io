@@ -6,7 +6,7 @@ subtitle: Postdoc in Economics @ <a href='https://www.uni-potsdam.de/en/universi
 
 profile:
   align: right
-  image: ME.JPEG
+  image: toni-SWrib.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
