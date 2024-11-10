@@ -20,7 +20,7 @@ Hello, World! I am Max. I am a micro-economist with an interest in machine learn
 My current work focuses on questions on the effect of institutions on cooperation in social dilemmas with primary applications to the study of oligopolies. 
 In oligopolies, policy makers and competition authorities aim to inhibit cooperation or collusion between firms because their collusive actions come at the cost of social welfare, for example, by causing higher prices. 
 
-With my work, I hope to protect or even to foster social welfare.
+With my work, I hope to protect or even to foster social welfare. I really enjoy teaching students in those interesting strands of economics.
 
 You can find more information on my work here on this website.
 
