@@ -33,6 +33,15 @@ nav_order: 2
 
 <br>
 
+<p><strong>Payoffs, Beliefs, and Cooperation in Infinitely Repeated Games (2024)</strong></p>
+<p><em>with Lisa Bruttel and Juri Nithammer</em></p>
+
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994196">Available at SSRN: https://ssrn.com/abstract=4994196</a></p>
+
+<p>Under Review at the <em>Journal of Political Economy</em></p>
+
+<br>
+
 <p><strong>Communicating Cartel Intentions (2024)</strong></p>
 <p><em>with Lisa Bruttel</em></p>
 
@@ -56,11 +65,13 @@ nav_order: 2
 
 <br>
 
-<p><strong>Payoffs, Beliefs, and Cooperation in Infinitely Repeated Games (2024)</strong></p>
-<p><em>with Lisa Bruttel and Juri Nithammer</em></p>
+<p><strong>Destructive Communication (2024)</strong></p>
+<p><em>with Vasilisa Werner</em></p>
 
-<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994196">Available at SSRN: https://ssrn.com/abstract=4994196</a></p>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836117">Available at SSRN: https://ssrn.com/abstract_id=4836117</a></p>
+
 
 <br>
+
 
 </div>
