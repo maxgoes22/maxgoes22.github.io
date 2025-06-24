@@ -10,6 +10,10 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<br>
+
+<br>
+
 
 <p><strong>How Communication Makes the Difference between a Cartel and Tacit Collusion: A Machine Learning Approach (2023)</strong></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
@@ -29,7 +33,11 @@ nav_order: 2
 
 <br>
 
+<br>
+
 <hr>
+
+<br>
 
 <br>
 
