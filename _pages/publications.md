@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: Research
-description: Publications and Work in Progress
+title: Publications and Work in Progress
+description: 
 nav: true
 nav_order: 2
 ---
@@ -36,6 +36,8 @@ nav_order: 2
 <br>
 
 <hr>
+
+<br>
 
 <br>
 
