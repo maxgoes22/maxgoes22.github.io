@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Publications & Work in Progress
+description: Publications and Work in Progress
 nav: true
 nav_order: 2
 ---
@@ -16,13 +16,13 @@ nav_order: 2
 <br>
 
 
-<p><strong><span style="background-color:black; color:white;">How Communication Makes the Difference between a Cartel and Tacit Collusion: A Machine Learning Approach (2023)</span></strong></p>
+<p><span style="background-color:black; color:white;">How Communication Makes the Difference between a Cartel and Tacit Collusion: A Machine Learning Approach (2023)</span></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0014292122002112">European Economic Review 152, 104331</a></p>
 
 <br>
 
-<p><strong>The Leniency Rule Revisited: Experiments on Cartel Formation with Open Communication (2021)</strong></p>
+<p><span style="background-color:black; color:white;">The Leniency Rule Revisited: Experiments on Cartel Formation with Open Communication (2021)</span></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0014292122002112">International Journal of Industrial Organization 76, 102728</a></p>
 
