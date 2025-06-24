@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: 
+description: Publications and Work in Progress
 nav: true
 nav_order: 2
 ---
@@ -10,9 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<p style="font-size: 1.5em;"><strong>Publications</strong></p>
-
-<br>
 
 <p><strong>How Communication Makes the Difference between a Cartel and Tacit Collusion: A Machine Learning Approach (2023)</strong></p>
 <p><em>with Lisa Bruttel and Jana Friedrichsen</em></p>
@@ -36,9 +33,6 @@ nav_order: 2
 
 <br>
 
-<p style="font-size: 1.5em;"><strong>Work in Progress</strong></p>
-
-<br>
 
 <p><strong>Payoffs, Beliefs, and Cooperation in Infinitely Repeated Games (2024)</strong></p>
 <p><em>with Lisa Bruttel and Juri Nithammer</em></p>
